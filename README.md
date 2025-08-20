@@ -9,4 +9,8 @@ The study investigates:
 - The empirical performance of Gaussian multiplier resampling.
 - The performance of the proposed subsampling method for real data applications.
 
+# Repository Structure
+- `main_R/`: Main R script to reproduce the simulation results and figures presented in the paper.
+- `data/`: Folder containing example data or simulated datasets.
+- `results/`: Folder where output tables/plots are saved.
 
